@@ -12,7 +12,9 @@ const ProductList = () => {
 
   return (
     <Container >
-
+      <div>
+      <h1>Simple Card List</h1>
+    </div>
     </Container>
   );
 };
