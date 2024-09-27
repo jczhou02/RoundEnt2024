@@ -1,12 +1,11 @@
 import React from 'react';
 import ProductList from './App/Page/ProductList';
-import Card from './App/Components/Card';
 
 const App = () => {
   return (
     <div>
+      <h1>Your Activities For Today</h1>
       <ProductList />
-      <Card/>
     </div>
   );
 };
